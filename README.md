@@ -1,6 +1,6 @@
-# 🐠 Ornamental_Fish Web API
+# 🐠 Ornamental_Fish Web UI
 
-**Ornamental_Fish** is a modern web platform for browsing and purchasing ornamental fish online. Built with ASP.NET Core 8, Entity Framework Core, and Identity Framework for secure authentication, it also includes cutting-edge features like **voice search** and **hand recognition-based ordering**.
+**Ornamental_Fish** is a modern web platform for browsing and purchasing ornamental fish online. Built with Vue 3, Vite, and TypeScript, it also includes cutting-edge features like **voice search** and **hand recognition-based ordering**.
 
 ---
 
@@ -18,13 +18,11 @@
 - **Vue 3** with Composition API
 - **Vite** for fast build & development
 - **TypeScript** for type safety
-- **Pinia** for state management
 - **Vue Router** for navigation
 - **ApexCharts** for data visualization
 - **SweetAlert2** for user-friendly dialogs
 - **Axios** for HTTP requests
 - **Vosk-Browser** for speech recognition
-- **Okta** for authentication (Gmail/Facebook)
 - **jQuery** and **jQuery UI** for some UI components
 
 ## 🧠 Features
@@ -33,7 +31,7 @@
 - 🖐️ Hand gesture-based ordering (paired with backend logic)
 - 🐠 Browse & order beautiful ornamental fish
 - 📊 View charts & stats about fish popularity
-- 🔐 Secure login via Gmail or Facebook (Okta integration)
+- 🔐 Secure login via Gmail or Facebook 
 - 💬 Sweet and clean UI interactions
 
 ## 🔗API Repository
