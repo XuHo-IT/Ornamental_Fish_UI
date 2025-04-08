@@ -1,6 +1,6 @@
 # 🐠 Ornamental_Fish Web UI
 
-**Ornamental_Fish** is a modern web platform for browsing and purchasing ornamental fish online. Built with Vue 3, Vite, and TypeScript, it also includes cutting-edge features like **voice search** and **hand recognition-based ordering**.
+**Ornamental_Fish** is a modern web platform for browsing and purchasing ornamental fish online. Built with Vue 3, it also includes cutting-edge features like **voice search** and **hand recognition-based ordering**.
 
 ---
 
@@ -17,7 +17,7 @@
 
 - **Vue 3** with Composition API
 - **Vite** for fast build & development
-- **TypeScript** for type safety
+- **JavaScript,TypeScript** for type safety
 - **Vue Router** for navigation
 - **ApexCharts** for data visualization
 - **SweetAlert2** for user-friendly dialogs
